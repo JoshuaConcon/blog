@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TestTag3 on Joshua Concon&#39;s Blog</title>
+    <link>http://localhost:1313/tags/testtag3/</link>
+    <description>Recent content in TestTag3 on Joshua Concon&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2024 16:25:39 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/testtag3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>http://localhost:1313/blogposts/test2/</link>
+      <pubDate>Sun, 15 Sep 2024 16:25:39 -0400</pubDate>
+      <guid>http://localhost:1313/blogposts/test2/</guid>
+      <description>&lt;p&gt;hi2&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

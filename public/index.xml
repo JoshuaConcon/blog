@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Concon&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Joshua Concon&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2024 09:17:42 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/blogposts/introduction/</link>
+      <pubDate>Sun, 15 Sep 2024 09:17:42 -0400</pubDate>
+      <guid>http://localhost:1313/blogposts/introduction/</guid>
+      <description>&lt;p&gt;Hello world, I&amp;rsquo;m Joshua Concon. I&amp;rsquo;m currently working as a Software Engineer and I decided to make this blog to talk about some of my insights, findings, or weird problems that I run into in my career.&lt;/p&gt;&#xA;&lt;p&gt;I hope you&amp;rsquo;re able to learn something new from what I write about.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
